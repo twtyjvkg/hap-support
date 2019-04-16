@@ -1,7 +1,7 @@
 <idea-plugin>
     <id>com.hand.ide.plugin.hap-support</id>
     <name>HAP Support</name>
-    <vendor email="xuzhao@feline.net" url="https://www.xuzhao.xin">xuzhao</vendor>
+    <vendor email="support@xuzhao.xin" url="https://www.xuzhao.xin">xuzhao</vendor>
     <description><![CDATA[
     Supports the development of HAND Application Platform with IntelliJ IDEA.
     <br/>
